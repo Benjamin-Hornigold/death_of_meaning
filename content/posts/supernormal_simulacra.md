@@ -1,11 +1,9 @@
 +++
-title = 'Supernormal_simulacra'
+title = 'The mechanism by which reality is losing it's meaning'
 date = 2026-02-25T16:00:23+01:00
 draft = false
 +++
 
-
-# The mechanism by which reality is losing it's meaning
 
 ## Post-structural agency 
 
