@@ -1,4 +1,4 @@
-baseURL = 'https://benjamin-hornigold.github.io/death_of_meaning/'
+baseURL = "https://benjamin-hornigold.github.io/death_of_meaning/"
 languageCode = 'en-us'
 title = 'Death of meaning'
 theme = 'PaperMod'
