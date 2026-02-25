@@ -1,9 +1,9 @@
 :root {
-    --main-font-size: 14px;  /* PaperMod default is ~18-20px, adjust to taste */
+    --main-font-size: 16px;  /* PaperMod default is ~18-20px, adjust to taste */
 }
 
 .post-content {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.6;
 }
 
