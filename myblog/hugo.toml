@@ -1,0 +1,10 @@
+baseURL = 'https://github.com/Benjamin-Hornigold/death_of_meaning'
+languageCode = 'en-us'
+title = 'Death of meaning'
+theme = 'PaperMod'
+
+[params.author]
+  name = "Hornigold"
+
+[params]
+  comments = true
