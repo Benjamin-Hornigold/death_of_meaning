@@ -23,7 +23,7 @@ Furhtermore, Beaudrillard does not introduce a selection mechanism for simulacra
 
 Enter Tinbergens supernormal stimulus. (Mnenomincally easier to store as Tinbergens Fake G-Cups.) Tinbergens shows in his work on ethology, that there are stimuli to a biological system that exaggerate a biological or anthropological stimulus that developed due to evolution. The response to this artificial stimulus is higher then to the natural stimulus to which the sense evolved. Like fake G-Cups, you know they are fake, you're still looking. It is very important to pause and think here for a second, since the supernormal stimulus is just a stimulus t o senses, it might not (and most likely will not) include the actual functionality of the stimulating object. E.g. fake G-cups dont produce milk and do not implie fertility. 
 
-## the supernormal simulacrum
+## The supernormal simulacrum
 
 We can thus think of a Supernormal simulacrum, an emergent mechanism by which sumalacra are valued and changed. My hypothesis is that simulacra can only compete in economic exchange when the are "better" by any metric, e.g. cheaper to produce, more scalable whatever. But when you compete with nature, e.g. in sexual attraction, how do you commoditize a symbolic exchange that is naturally occuring? By replacing the real stimulus with a supernormal stimulus that is perceived as better by the natural being. 
 
