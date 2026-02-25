@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Death of meaning</title>
-    <link>http://localhost:1313/Benjamin-Hornigold/death_of_meaning/posts/</link>
+    <link>http://localhost:1313/death_of_meaning/posts/</link>
     <description>Recent content in Posts on Death of meaning</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Feb 2026 16:00:23 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/Benjamin-Hornigold/death_of_meaning/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/death_of_meaning/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Supernormal_simulacra</title>
-      <link>http://localhost:1313/Benjamin-Hornigold/death_of_meaning/posts/supernormal_simulacra/</link>
+      <title>The mechanism by which reality is losing its meaning</title>
+      <link>http://localhost:1313/death_of_meaning/posts/supernormal_simulacra/</link>
       <pubDate>Wed, 25 Feb 2026 16:00:23 +0100</pubDate>
-      <guid>http://localhost:1313/Benjamin-Hornigold/death_of_meaning/posts/supernormal_simulacra/</guid>
-      <description>&lt;h1 id=&#34;the-mechanism-by-which-reality-is-losing-its-meaning&#34;&gt;The mechanism by which reality is losing it&amp;rsquo;s meaning&lt;/h1&gt;
-&lt;h2 id=&#34;post-structural-agency&#34;&gt;Post-structural agency&lt;/h2&gt;
+      <guid>http://localhost:1313/death_of_meaning/posts/supernormal_simulacra/</guid>
+      <description>&lt;h2 id=&#34;post-structural-agency&#34;&gt;Post-structural agency&lt;/h2&gt;
 &lt;p&gt;Post-structuralism like Debord and Beaudrillard discuss how the modern society creates alienating, unreal conditions. Most of their theories discuss frameworks and language to discuss, classify and categorize these structures in society and their outcome. A specifically useful term for identifying and discussing said structures are defined in Beaudrillards work &amp;ldquo;Simulacra and simulation&amp;rdquo; is the simulacrum, a copy of a copy that lost its original reference, it is thus &lt;em&gt;hyperreal&lt;/em&gt; in the sense that is has no meaning to actual reality. He argues that is overtaking reality and that real images are replaced by non-real images,the simulacra. The structure that produces the simulacra is the simulation. specifically the state of conditions that allow for things to be exchangeable by something non-real, without a change in outcome.&lt;/p&gt;</description>
     </item>
   </channel>
