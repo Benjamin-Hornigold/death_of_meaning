@@ -3,9 +3,9 @@ languageCode = 'en-us'
 title = 'Death of meaning'
 theme = 'PaperMod'
 
-[params.author]
-  name = "Hornigold"
-
 [params]
   comments = true
   defaultTheme = "dark"
+
+[params.author]
+  name = "Hornigold"
